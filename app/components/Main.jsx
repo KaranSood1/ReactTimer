@@ -6,8 +6,9 @@ var Main = (props) => {
     <div>
       <div>
         <div>
-          
           <Nav/>
+          Main.jsx
+
           {props.children}
         </div>
       </div>
